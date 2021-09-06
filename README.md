@@ -11,5 +11,5 @@ This assignment is a _HTML_ page for _Vecta Corporation_ that offers various sol
 It also contains reccommendations from their **happy** customers.
 
 #### HTML Tags used:
-1 **Paragraph** tag
-2 **header** tag
+1. **Paragraph** tag
+2. **header** tag
